@@ -3,6 +3,7 @@
 ## For developers
 
 - [REST APIs](https://documenter.getpostman.com/view/56173/RWgxuF5i#726db351-ddf1-4805-99a0-2d1e37382695)
+- [`astproxy` NPM module](https://www.npmjs.com/package/astproxy)
 - [Doc](https://nethvoice.docs.nethesis.it/en/v14/cti_dev.html)
 
 ## For end-user
