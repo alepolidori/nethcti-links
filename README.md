@@ -1,4 +1,4 @@
-# Links about NethCTI project
+# [Main site - https://www.nethesis.it/nethvoice/cti](https://www.nethesis.it/nethvoice/cti)
 
 ## For developers
 
