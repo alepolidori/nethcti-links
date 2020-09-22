@@ -1,4 +1,6 @@
-# [Main site - https://www.nethesis.it/nethvoice/cti](https://www.nethesis.it/nethvoice/cti)
+## Main Site
+
+- [https://www.nethesis.it/nethvoice/cti](https://www.nethesis.it/nethvoice/cti)
 
 ## For developers
 
